@@ -1,0 +1,310 @@
+condition:and
+condition:as easy as
+condition:as far as
+condition:at least
+condition:conditional
+condition:either
+condition:for the purpose of
+condition:for the purposes of
+condition:if
+condition:in a manner
+condition:in addition to or in place of
+condition:in so far as
+condition:nor
+condition:or
+condition:provided that
+condition:to the extent and in such manner
+condition:under
+condition:where
+condition:whether
+condition:within their jurisdiction
+definitional scope:applies
+definitional scope:apply
+definitional scope:concerning him or her
+definitional scope:does not apply
+definitional scope:everyone who
+definitional scope:except such as
+definitional scope:falls outside
+definitional scope:in the following cases
+definitional scope:intended to
+definitional scope:subject to
+definitional scope:wholly or partly
+definitional scope:article
+definitional scope:paragraph
+definitional scope:chapter
+exception:but
+exception:except
+exception:exempt from
+exception:however
+exception:instead of
+exception:irrespective of
+exception:notwithstanding
+exception:save in the execution of
+exception:unless
+exception:whether or not
+exception:without regard to
+proof:demonstrate
+proof:when it results from
+threshold:alone or jointly
+threshold:has the following minimum rights
+threshold:in not less than two of the following 
+threshold:no longer than
+threshold:one or more
+threshold:only to the extent
+threshold:prior to
+threshold:higher than
+threshold:lower than
+dispensation:can no longer
+dispensation:can not
+dispensation:cannot
+dispensation:could not
+dispensation:may not
+dispensation:might not
+obligation:must
+obligation:shall
+obligation:should
+permission:able to
+permission:can
+permission:could
+permission:entilted
+permission:has the right
+permission:have the right
+permission:may
+permission:might
+permission:authorised
+permission:authorized
+prohibition:must not
+prohibition:no account shall
+prohibition:shall not
+prohibition:should not
+definition:in accordance with
+definition:in particular
+definition:in relation to
+definition:in the fields of
+definition:include
+definition:including
+definition:mean
+definition:on the basis of
+definition:relating to
+definition:specifically
+definition:such as
+external/internal:according to
+external/internal:as regards to
+external/internal:by reason of the provisions
+external/internal:defined in
+external/internal:described in
+external/internal:described in
+external/internal:in respect of
+external/internal:mentioned in
+external/internal:pursuant to
+external/internal:referred to in
+external/internal:so described
+external/internal:specified in
+external/internal:specifying
+external/internal:the same meaning as
+external/internal:under section
+external/internal:under the provisions of
+external/internal:under the social security act
+external/internal:with regard to
+external/internal:with respect
+external/internal:within the meaning of the Income Tax Act
+external/internal:within the meaning of this paragraph
+balancing:belief
+balancing:believes
+balancing:considered
+balancing:dignity
+balancing:duties and responsibilities
+balancing:family
+balancing:freedom
+balancing:freely chosen
+balancing:freely given
+balancing:fundamental
+balancing:good
+balancing:independent
+balancing:inhuman or degrading treatment or punishment
+balancing:interest
+balancing:liberty
+balancing:obligations
+balancing:principle
+balancing:privacy
+balancing:proportion
+balancing:proportionate
+balancing:protected
+balancing:protection
+balancing:right
+balancing:secure
+balancing:security
+balancing:slavery
+balancing:torture
+balancing:constraint
+balancing:exclusively
+balancing:only
+balancing:purely
+balancing:solely
+balancing:absolutely
+balancing:almost
+balancing:any significant changes
+balancing:completely
+balancing:completeness
+balancing:degree of
+balancing:directly
+balancing:effective
+balancing:excessive
+balancing:for specified purposes
+balancing:fully
+balancing:general
+balancing:insofar
+balancing:limit
+balancing:limitation
+balancing:overall activity
+balancing:so much of
+balancing:stricly
+balancing:targeted
+balancing:to that degree
+balancing:to that extent
+balancing:wholly
+balancing:wholly or partly
+balancing:fair
+balancing:impartial
+balancing:informed consent
+balancing:just
+balancing:knowingly
+balancing:knowledge
+balancing:nearly equally
+balancing:wilfully
+balancing:closer
+balancing:home
+balancing:occupier
+balancing:worldwide
+balancing:according to the law
+balancing:compatible
+balancing:consistent
+balancing:in accordance with the law
+balancing:laid down in law
+balancing:lawful
+balancing:legal
+balancing:legitimate
+balancing:need
+balancing:preparatory or auxiliary character
+balancing:prescribed by law
+balancing:principally
+balancing:some other legitimate basis laid down in law
+balancing:violable
+balancing:business activities
+balancing:company
+balancing:establishment
+balancing:free
+balancing:risk
+balancing:ambiguous
+balancing:clear
+balancing:clear and plain
+balancing:easily
+balancing:equally
+balancing:expressly
+balancing:genuinely
+balancing:judicially
+balancing:limited
+balancing:make efforts
+balancing:manifestly
+balancing:manner
+balancing:measures
+balancing:nature of the work
+balancing:negligently
+balancing:prejudice
+balancing:prevailing industry practice
+balancing:relevant
+balancing:safeguard
+balancing:safeguarding
+balancing:sample
+balancing:substantially
+balancing:taking into consideration
+balancing:unique
+balancing:everyone
+balancing:him
+balancing:his
+balancing:person
+balancing:adequate
+balancing:appropriate
+balancing:correct
+balancing:duly
+balancing:necessary
+balancing:possessions
+balancing:proper
+balancing:proportionate
+balancing:quality
+balancing:reasonable
+balancing:reasonably
+balancing:reliability
+balancing:serious
+balancing:sufficient
+balancing:transparent
+balancing:accordingly
+balancing:apportioned
+balancing:closely related
+balancing:respectively
+balancing:separately
+balancing:similarly
+balancing:accuracy
+balancing:accurate
+balancing:ancillary or incidental
+balancing:any other criterion of a similar nature
+balancing:any other matter
+balancing:explicit
+balancing:identical or substantially similar
+balancing:in particular
+balancing:specifically
+balancing:specified
+balancing:adversely
+balancing:alternatively
+balancing:immediate
+balancing:irregular
+balancing:jointly
+balancing:later
+balancing:occasional
+balancing:period
+balancing:periodically
+balancing:promptly
+balancing:regularly
+balancing:simultaneous
+balancing:soon
+balancing:speedily
+balancing:state of the art
+balancing:time to time
+balancing:together
+balancing:up to date
+balancing:urgent
+balancing:usual
+balancing:ordinary
+balancing:ordinarily
+balancing:custom
+balancing:customary
+balancing:permanent 
+balancing:proportionate
+balancing:approximate
+balancing:meaningful
+balancing:month
+balancing:week
+balancing:enforceable
+balancing:specific
+balancing:consequences
+balancing:easy
+balancing:means
+balancing:ethics
+balancing:resilience
+balancing:phases
+balancing:due
+balancing:systematic
+balancing:large
+balancing:without delay
+balancing:virtue
+balancing:scope
+balancing:dependence
+balancing:expertise
+balancing:most
+balancing:intent
+balancing:negligent
+balancing:responsible
+balancing:gravity
+balancing:purposes
+balancing:level of damage
+ 
